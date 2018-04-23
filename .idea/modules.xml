@@ -3,8 +3,11 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/SearchableSpinner.iml" filepath="$PROJECT_DIR$/SearchableSpinner.iml" />
+      <module fileurl="file://C:\Users\Zoran\Desktop\Projekti\Android\SearchableSpinner\SearchableSpinner.iml" filepath="C:\Users\Zoran\Desktop\Projekti\Android\SearchableSpinner\SearchableSpinner.iml" />
       <module fileurl="file://$PROJECT_DIR$/sample/sample.iml" filepath="$PROJECT_DIR$/sample/sample.iml" />
+      <module fileurl="file://C:\Users\Zoran\Desktop\Projekti\Android\SearchableSpinner\sample\sample.iml" filepath="C:\Users\Zoran\Desktop\Projekti\Android\SearchableSpinner\sample\sample.iml" />
       <module fileurl="file://$PROJECT_DIR$/searchablespinnerlibrary/searchablespinnerlibrary.iml" filepath="$PROJECT_DIR$/searchablespinnerlibrary/searchablespinnerlibrary.iml" />
+      <module fileurl="file://C:\Users\Zoran\Desktop\Projekti\Android\SearchableSpinner\searchablespinnerlibrary\searchablespinnerlibrary.iml" filepath="C:\Users\Zoran\Desktop\Projekti\Android\SearchableSpinner\searchablespinnerlibrary\searchablespinnerlibrary.iml" />
     </modules>
   </component>
 </project>
